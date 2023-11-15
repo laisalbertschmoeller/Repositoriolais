@@ -11,6 +11,7 @@ class laisclasseaula {
 	public void setIdade(int idade) {
 		this.idade = idade;
 	}
+<<<<<<< master
 	private int datanascimento;
 
 	public int getDatanascimento() {
@@ -21,6 +22,8 @@ class laisclasseaula {
 		this.datanascimento = datanascimento;
 	}
 
+=======
+>>>>>>> 1fcab55 oi
 	
 	}
 	
