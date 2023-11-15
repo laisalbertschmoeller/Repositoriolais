@@ -11,15 +11,17 @@ class laisclasseaula {
 	public void setIdade(int idade) {
 		this.idade = idade;
 	}
-	private date datanascimento;
+	private int datanascimento;
 
-	public date getDatanascimento() {
+	public int getDatanascimento() {
 		return datanascimento;
 	}
 
-	public void setDatanascimento(date datanascimento) {
+	public void setDatanascimento(int datanascimento) {
 		this.datanascimento = datanascimento;
 	}
+
 	
-}
+	}
+	
 	
